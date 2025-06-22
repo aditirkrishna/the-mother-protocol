@@ -32,15 +32,25 @@ Shelved alphabetically by a system designed by Kafka on a bad day.
 An archive allergic to closure.
 
 Her hand hovers. Trembles. Not fear. Anticipation?  
-Or maybe just the ghost of too much caffeine on an empty stomach.  
-Calendars are fascist constructs anyway.  
+Or maybe just the ghost of too much caffeine on an empty stomach.   
+Tuesday? Wednesday? Calendars are fascist constructs anyway.  
 She grabs a folder. Thick. Cold. Like holding a slab of frozen lake.
 
+<<<<<<< HEAD
 SUBJECT: SELIN M 
 STATUS: ACTIVE YET UNDOCUMENTED (Me on every dating profile ever) 
 REVISIONS: INFINITE (My therapist's billing cycle) 
 MEMORY RECALL: UNRELIABLE (SEE: ADHD, TRAUMA, GENERAL DISASSOCIATIVE VIBES) 
 MOTHER: UNSPECIFIED / UNSTABLE (SEE ADDENDUM: "THE VOID WHERE AFFECTION SHOULD BE") PROTOCOL COMPLIANCE: WITHDRAWN (Me exiting group chat)
+=======
+- SUBJECT: SELIN M
+- STATUS: ACTIVE YET UNDOCUMENTED (Me on every dating profile ever)
+- REVISIONS: INFINITE (My therapist’s billing cycle)
+- MEMORY RECALL: UNRELIABLE (SEE: ADHD, TRAUMA, GENERAL DISASSOCIATIVE VIBES)
+- MOTHER: UNSPECIFIED / UNSTABLE (SEE ADDENDUM: “THE VOID WHERE AFFECTION SHOULD BE”)
+- PROTOCOL COMPLIANCE: WITHDRAWN (Me exiting group chat)
+
+>>>>>>> aabbdf198b9371dca02786c3603a0300bcfbf1e3
 
 Flip. A photo. Not her. A stick figure drawing. Third grade.  
 Holding a giant, lopsided question mark like a wilted balloon on a string.  
@@ -72,7 +82,8 @@ Face aggressively pixelated. Like the universe got a DMCA takedown notice on mot
 > Dust motes dance in the weak light.  
 > A voice, dry as forgotten bones:  
 > “Storage is cheaper than remembering, sweetheart. And you opted for the budget plan.”  
->  
+>
+> **Fuck.** It’s always the inanimate objects that read you to filth. 
 > **Fuck.** Even the furniture gaslights her. Peak efficiency.
 
 Selin folds. Collapses onto the linoleum. Lets her spine surrender like a bridge made of wet spaghetti.  
