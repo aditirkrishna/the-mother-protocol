@@ -36,12 +36,12 @@ Or maybe just the ghost of too much caffeine on an empty stomach.
 Calendars are fascist constructs anyway.  
 She grabs a folder. Thick. Cold. Like holding a slab of frozen lake.
 
-SUBJECT: SELIN M
-STATUS: ACTIVE YET UNDOCUMENTED (Me on every dating profile ever)
-REVISIONS: INFINITE (My therapist’s billing cycle)
-MEMORY RECALL: UNRELIABLE (SEE: ADHD, TRAUMA, GENERAL DISASSOCIATIVE VIBES)
-MOTHER: UNSPECIFIED / UNSTABLE (SEE ADDENDUM: “THE VOID WHERE AFFECTION SHOULD BE”)
-PROTOCOL COMPLIANCE: WITHDRAWN (Me exiting group chat)
+- SUBJECT: SELIN M
+- STATUS: ACTIVE YET UNDOCUMENTED (Me on every dating profile ever)
+- REVISIONS: INFINITE (My therapist’s billing cycle)
+- MEMORY RECALL: UNRELIABLE (SEE: ADHD, TRAUMA, GENERAL DISASSOCIATIVE VIBES)
+- MOTHER: UNSPECIFIED / UNSTABLE (SEE ADDENDUM: “THE VOID WHERE AFFECTION SHOULD BE”)
+- PROTOCOL COMPLIANCE: WITHDRAWN (Me exiting group chat)
 
 
 Flip. A photo. Not her. A stick figure drawing. Third grade.  
