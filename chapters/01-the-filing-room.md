@@ -32,8 +32,8 @@ Shelved alphabetically by a system designed by Kafka on a bad day.
 An archive allergic to closure.
 
 Her hand hovers. Trembles. Not fear. Anticipation?  
-Or maybe just the ghost of too much caffeine on an empty stomach.  
-Calendars are fascist constructs anyway.  
+Or maybe just the ghost of too much caffeine on an empty stomach.   
+Tuesday? Wednesday? Calendars are fascist constructs anyway.  
 She grabs a folder. Thick. Cold. Like holding a slab of frozen lake.
 
 - SUBJECT: SELIN M
@@ -74,7 +74,8 @@ Face aggressively pixelated. Like the universe got a DMCA takedown notice on mot
 > Dust motes dance in the weak light.  
 > A voice, dry as forgotten bones:  
 > “Storage is cheaper than remembering, sweetheart. And you opted for the budget plan.”  
->  
+>
+> **Fuck.** It’s always the inanimate objects that read you to filth. 
 > **Fuck.** Even the furniture gaslights her. Peak efficiency.
 
 Selin folds. Collapses onto the linoleum. Lets her spine surrender like a bridge made of wet spaghetti.  
