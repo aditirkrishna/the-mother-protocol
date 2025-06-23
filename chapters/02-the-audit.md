@@ -1,14 +1,16 @@
 # CHAPTER 02 — THE AUDIT  
 _Quantifying the Unquantifiable Shitshow_  
-*(Scrawled by Rhyl at 4:17 AM, wearing one sock and the lingering scent of existential panic. The other sock? Vanished. Like childhood innocence. or coherent thought, and one eye on the existential abyss, the other on a half-eaten Pop-Tart that might be a metaphor. Or just breakfast. Hard to tell.)*  
+*(Scrawled by rhyl at 4:17 AM, wearing one sock and the lingering scent of existential panic. The other sock? Vanished. Like childhood innocence. or coherent thought, and one eye on the existential abyss, the other on a half-eaten Pop-Tart that might be a metaphor. Or just breakfast. Hard to tell.)*  
 
-The auditor’s office smelled like regret left in a damp basement and the sharp, chemical tang of naphthalene. Like bureaucratic decay wearing cheap cologne. Like regret processed through a fax machine.The single bulb overhead didn’t illuminate so much as accuse, casting long, guilty shadows. Flies – fat, sluggish, stupid – circled its sickly luminance. Every 23 seconds, exactly, a handful dropped dead onto the teetering pile of unpaid electricity bills stacked precariously on a filing cabinet labelled NOSTALGIA: DEPRECIATING ASSETS. Plip. Plip. Plip. Like a metronome for entropy.  
+The auditor’s office smelled like regret left in a damp basement and the sharp, chemical tang of naphthalene. Like bureaucratic decay wearing cheap cologne. Like regret processed through a fax machine.
+
+The single bulb overhead didn’t illuminate so much as accuse, casting long, guilty shadows. Flies – fat, sluggish, stupid – circled its sickly luminance. Every 23 seconds, exactly, a handful dropped dead onto the teetering pile of unpaid electricity bills stacked precariously on a filing cabinet labelled NOSTALGIA: DEPRECIATING ASSETS. Plip. Plip. Plip. Like a metronome for entropy.  
 
 Selin didn’t answer immediately when he spoke her name. The name itself felt borrowed tonight, like library books overdue and accruing fines. Instead, she brushed her fingers across the back of her hand. Dry skin catching on dry skin. Then, she scrunched the right side of her upper lip – a tiny, internal seismograph. Whispered, barely audible, to the dust motes dancing in the accusation-light:  
 
 “Is it already Wednesday?”  
 
-She knew by the hair on her arms. Sharp. That’s how she felt the days. Oily hair slicked back? Saturday, definitely. The faint, gritty residue of dry shampoo clinging to her scalp like existential dandruff? Tuesday’s calling card. She traced the tiny, pointy hairs on her upper lip with the tip of her tongue. Pointy. That meant she’d somehow navigated past Thursday this week. A minor victory, celebrated internally with the fanfare of a deflating balloon.  
+She knew by the hair on her arms. Sharp. That’s how she felt the days. Oily hair slicked back? Saturday, definitely. The faint, gritty residue of dry shampoo clinging to her scalp like existential dandruff? Tuesday. She traced the tiny, pointy hairs on her upper lip with the tip of her tongue. Pointy. That meant she’d somehow navigated past Thursday this week. A minor victory, celebrated internally with the fanfare of a deflating balloon.  
 
 Her unibrow was starting its slow, inevitable knit back together. A fuzzy bridge across the frown line. Three-month mark. Last threading session: the day after her birthday. A cake uncut. No candles. Just the profound, suffocating silence and a plain, bone-white envelope from the Protocol, delivered by a drone that hummed like a disappointed parent. Inside, one line stamped in unforgiving black: “Emotional Clearance: Stable. Reassignable.” Like a used appliance passed on.  
 
@@ -18,7 +20,7 @@ The voice again. Softer this time. The impatience muffled beneath layers of bure
 
 Selin had missed her last one. Fleeing? Forgetting? Folding herself into the static hum of an undocumentable life? Now, this room felt less like a place and more like a recurring dream she couldn’t quite shake. Did she remember the cracked linoleum? The dying flies? Or did the feeling just fit, like a worn slipper of dread?  
 
-"Subject Selin M," Silas stated, voice devoid of modulation. A human text-to-speech engine running on dial-up. "Designation: Mother Protocol Candidate, Batch 7-Alpha. Status: Active Yet Undocumented. Compliance Rating: Catastrophically Withdrawn. You are present for Mandatory Emotional Residue Audit. Please assume the Quantification Posture."  
+"Subject Selin Vora," Silas stated, voice devoid of modulation. A human text-to-speech engine running on dial-up. "Designation: Mother Protocol Candidate, Batch 7-Alpha. Status: Active Yet Undocumented. Compliance Rating: Catastrophically Withdrawn. You are present for Mandatory Emotional Residue Audit. Please assume the Quantification Posture."  
 
 He gestured towards a contraption in the corner. It looked like a dentist’s chair mated with a lie detector and gave birth to something vaguely menacing. Wires snaked. Dials glowed an unhealthy green. A single, articulated arm ended in a suction cup large enough to cradle a human skull.  
 
@@ -48,7 +50,7 @@ Selin hated herself. Hated the part that still, stupidly, craved the approval of
 
 "Like a dress," she murmured, the words tasting like dust and static. "You just had to wear it tight enough. Smile wide enough. And never, ever bleed through."  
 
-The auditor – no name, just Vest – adjusted his… well, vest. The stiff lining crackled faintly, releasing another puff of chemical preservation. He tapped his pen – cheap, chewed – once, twice, against the manila folder resting unopened before him. SELIN VORA. Scribbled in fading blue ink. A coffee ring stain bloomed near the corner like a brown nebula. Spilled by him? By some other weary quantifier of ghosts? Who knew.  
+The auditor – wearing just a Vest – adjusted his… well, vest. The stiff lining crackled faintly, releasing another puff of chemical preservation. He tapped his pen – cheap, chewed – once, twice, against the manila folder resting unopened before him. SELIN VORA. Scribbled in fading blue ink. A coffee ring stain bloomed near the corner like a brown nebula. Spilled by him? By some other weary quantifier of ghosts? Who knew.  
 
 “I’m not here to answer your questions, Subject Vora,” he stated, the monotone back, polished to a dull sheen. “This is an audit. Quantification. Not… therapy.” He said the word like it was something vaguely obscene found under a rock.  
 
@@ -58,7 +60,8 @@ He wrote something down. The scratch of pen on paper sounded obscenely loud in t
 
 “You said earlier,” he murmured, not looking up from his form, “that love felt transferable. Like a dress.” A pause. The pen hovered. “Do you still hold that position?”  
 
-Selin watched a fly kamikaze into the hot glass of the bulb. Plip. Another statistic.  
+Selin watched a fly kamikaze into the hot glass of the bulb. Plip. Another statistic.
+
 “I don’t know,” she said, the words ash in her mouth. “But I think… I think I was dressed in someone else’s longing. Someone else’s unfinished business. And I…” She swallowed. The sharp hairs on her arm pricked. “I outgrew it.”  
 
 The silence this time wasn't just thick. It was structural. Like the walls were holding their breath. Vest stopped writing. The pen tip rested heavily on the paper, threatening to bleed.  

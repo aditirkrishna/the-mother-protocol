@@ -43,7 +43,9 @@ Fifth file: Utterly blank. Just… white space. A visual scream. Sixth: Bleeds t
 “Why keep this shit here?” Her voice, rusty. Unused. “In this… tomb for feelings?” A drawer slides open an inch nearby with a metallic schiiick. Dust motes dance in the weak light. A voice, dry as forgotten bones:  
 > “Storage is cheaper than remembering, sweetheart. And you opted for the budget plan.”
 
-Fuck. It’s always the inanimate objects that read you to filth. Fuck. Even the furniture gaslights her. Peak efficiency.
+Fuck. It’s always the inanimate objects that read you to filth. 
+Fuck. Even the furniture gaslights her. 
+Peak efficiency.
 
 Selin folds. Collapses onto the linoleum. Lets her spine surrender like a bridge made of wet spaghetti. Tired. So tired of performing structural integrity. Her hands shake — not adrenaline, just the aftershocks of memory. Or maybe hypoglycemia.
 
